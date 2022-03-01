@@ -1,2 +1,2 @@
 # dotfiles
-Requires Polybar, Openbox (or i3wm), picom, rofi, pywal, vim, 
+Requires Polybar, Openbox (or i3wm), picom, rofi, pywal, vim, sxhkd
