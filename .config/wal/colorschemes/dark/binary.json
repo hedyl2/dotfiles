@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/hedy/Pictures/Wallpaper/wallhaven-3zgz2y.png",
+    "alpha": "99",
+    "special": {
+        "background": "#0D1706",
+        "foreground": "#abed7a",
+        "cursor": "#abed7a"
+    },
+    "colors": {
+        "color0": "#0D1706",
+        "color1": "#3FA204",
+        "color2": "#479207",
+        "color3": "#4FAE06",
+        "color4": "#68AE06",
+        "color5": "#59CC06",
+        "color6": "#6AD506",
+        "color7": "#abed7a",
+        "color8": "#77a555",
+        "color9": "#3FA204",
+        "color10": "#479207",
+        "color11": "#4FAE06",
+        "color12": "#68AE06",
+        "color13": "#59CC06",
+        "color14": "#6AD506",
+        "color15": "#abed7a"
+    }
+}

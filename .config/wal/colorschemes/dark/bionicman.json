@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/hedy/Pictures/Wallpaper/wallhaven-9mm3ed.jpg",
+    "alpha": "94",
+    "special": {
+        "background": "#010111",
+        "foreground": "#cfdbd7",
+        "cursor": "#cfdbd7"
+    },
+    "colors": {
+        "color0": "#010111",
+        "color1": "#486679",
+        "color2": "#366D85",
+        "color3": "#4F7688",
+        "color4": "#689099",
+        "color5": "#69B0BD",
+        "color6": "#99B1B1",
+        "color7": "#cfdbd7",
+        "color8": "#909996",
+        "color9": "#486679",
+        "color10": "#366D85",
+        "color11": "#4F7688",
+        "color12": "#689099",
+        "color13": "#69B0BD",
+        "color14": "#99B1B1",
+        "color15": "#cfdbd7"
+    }
+}

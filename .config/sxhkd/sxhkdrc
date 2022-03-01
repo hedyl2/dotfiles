@@ -1,0 +1,32 @@
+super + Return 
+	x-terminal-emulator
+super + n
+	caja
+super + m
+	clementine
+super + d
+	rofi -show run
+super + shift + w
+	palemoon
+super + shift + s
+	pavucontrol
+super + alt + l
+	pkill -USR1 -x sxhkd
+#screenshots 
+Print
+	scrot  ~/Pictures/scrot/%Y-%m-%d_$wx$h.png 
+shift + Print 
+	scrot -s ~/Pictures/scrot/%Y-%m-%d_$wx$h.png
+#brightness
+XF86MonBrightnessUp
+	xbacklight -inc 10
+XF86MonBrightnessDown 
+	xbacklight -dec 10
+shift + XF86MonBrightnessUp
+        xbacklight -inc 5
+shift + XF86MonBrightnessDown 
+        xbacklight -dec 5
+# Raise, lower or mute volume
+XF86AudioRaiseVolume amixer -q set Master 5%+
+XF86AudioLowerVolume amixer -q set Master 5%-
+XF86AudioMute amixer set Master toggle

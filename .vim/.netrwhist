@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/hedy/.config/sxiv/exec'
+let g:netrw_dirhist_3='/home/hedy/.vim/colors/wal.vim'
+let g:netrw_dirhist_2='/home/hedy/.vim/wal.vim'
+let g:netrw_dirhist_1='/home/hedy/.config/sxhkd'

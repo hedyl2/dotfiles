@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/hedy/Pictures/Wallpaper/1643132917533.jpg",
+    "alpha": "96",
+    "special": {
+        "background": "#0d0202",
+        "foreground": "#f4c3cd",
+        "cursor": "#f4c3cd"
+    },
+    "colors": {
+        "color0": "#0d0202",
+        "color1": "#A61D0D",
+        "color2": "#E52321",
+        "color3": "#D7443C",
+        "color4": "#FC5858",
+        "color5": "#C1954C",
+        "color6": "#FD6A90",
+        "color7": "#f4c3cd",
+        "color8": "#aa888f",
+        "color9": "#A61D0D",
+        "color10": "#E52321",
+        "color11": "#D7443C",
+        "color12": "#FC5858",
+        "color13": "#C1954C",
+        "color14": "#FD6A90",
+        "color15": "#f4c3cd"
+    }
+}

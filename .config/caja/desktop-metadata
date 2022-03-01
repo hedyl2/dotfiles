@@ -1,0 +1,30 @@
+[directory]
+caja-icon-view-keep-aligned=true
+caja-icon-view-layout-timestamp=1645948265
+caja-window-scroll-position=x-caja-desktop:///share%20on%20server.local.volume
+caja-icon-view-lock-icons-position=false
+
+[home]
+caja-icon-position=64,102
+icon-scale=1
+caja-icon-position-timestamp=1645093719
+
+[computer]
+caja-icon-position=64,22
+icon-scale=1
+caja-icon-position-timestamp=1645093719
+
+[LINUX MINT.volume]
+caja-icon-position=64,202
+icon-scale=1
+caja-icon-position-timestamp=1645086018
+
+[share on server.local.volume]
+caja-icon-position=64,122
+icon-scale=1
+caja-icon-position-timestamp=1645221498
+
+[trash]
+caja-icon-position=64,10
+icon-scale=1
+caja-icon-position-timestamp=1645948265
