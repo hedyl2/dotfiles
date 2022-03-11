@@ -16,10 +16,10 @@
 #
 #xfce-mcs-manager &
 (sxhkd) &
+(ds4drv --hidraw) &
+(mpc update) &
 (wal -R -a 80) &
 (picom --no-use-damage) &
 (pywal-discord) &
 (pywal-4chan) &
-(polybar main) &
-(polybar vga1) &
-(nm-applet) 
+(polybar main) 
